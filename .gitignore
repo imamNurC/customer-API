@@ -30,6 +30,9 @@ packages/
 
 # prop
 Properties/
+README.md
+FETCH_HEAD
+
 
 # Sensitive configuration files
 appsettings.json
