@@ -1,0 +1,35 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.bak
+
+# Visual Studio
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# IDE-specific
+.idea/
+.vscode/
+
+# Compiled binaries
+*.exe
+*.dll
+
+# Temporary files
+*.tmp
+*.temp
+
+# prop
+Properties/
+
+# Sensitive configuration files
+appsettings.json
